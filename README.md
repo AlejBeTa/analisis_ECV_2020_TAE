@@ -3,6 +3,17 @@ Analisis Encuesta Nacional de Calidad de Vida 2020 - TAE
 
 Análisis de la Encuesta Nacional de Calidad de Vida Colombia 2020
 
+
+Base de datos
+------------
+
+Variables de entorno necesarias en .env:
+* PG_DATABASE
+* PG_USER
+* PG_PASSWORD
+* PG_HOST
+* PG_PORT
+
 Project Organization
 ------------
 
